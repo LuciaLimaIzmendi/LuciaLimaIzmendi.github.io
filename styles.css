@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #4d243d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #5f363e;
+}
+
+#uwu {
+    height: 13rem;
+}
+
+#owo {
+    max-width: 40rem;
+    background-color: #ecdcc9;
+    padding: 0 2rem;
+    box-shadow: 0 0 0 1rem #d0a98f;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.color {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.flex {
+    display: flex;
+}
+.text {
+    padding: 0 1rem 0 0;
+}
